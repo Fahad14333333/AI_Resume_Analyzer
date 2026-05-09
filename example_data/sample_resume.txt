@@ -1,0 +1,20 @@
+Mariam Khan
+
+Email: mariam.khan@example.com
+Phone: +92 300 1234567
+
+Skills
+Python, PyTorch, NLP, spaCy, SQL, Docker, AWS, Machine Learning
+
+Experience
+- Built a resume parsing system using Python, pdfplumber, and spaCy.
+- Developed embedding-based matching algorithms with SentenceTransformers.
+
+Education
+MSc in Computer Science
+
+Certifications
+Certified AWS Cloud Practitioner
+
+Languages
+English, Urdu

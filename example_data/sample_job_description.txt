@@ -1,0 +1,3 @@
+Senior NLP Engineer
+
+We are seeking a Senior NLP Engineer with experience in Python, PyTorch, spaCy, and transformer models. The ideal candidate will build semantic matching pipelines, design resume parsing systems, and create scalable classification workflows. Strong communication, AWS familiarity, and production deployment experience are highly valued.
